@@ -11,5 +11,4 @@ MVVM-Respository-Clean Architecture Example
 - [Retrofit2 & Gson](https://github.com/square/retrofit) for constructing the REST API
 - [OkHttp3](https://github.com/square/okhttp) for implementing interceptor, logging and mocking web server
 - [Picasso](https://github.com/sqare/picasso) for loading images
-- [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) for LifeCycle management
-
+- [RXJava](https://github.com/ReactiveX/RxJava) for asynchronous request management
